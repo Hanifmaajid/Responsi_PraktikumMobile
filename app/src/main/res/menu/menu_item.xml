@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/covid19Id"
+        android:icon="@drawable/ic_coronavirus"
+        android:title="Data Kasus Covid-19" />
+    <item
+        android:id="@+id/hospitalmapsId"
+        android:icon="@drawable/ic_hospital"
+        android:title="Data RS Tujuan Covid" />
+</menu>
